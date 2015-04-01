@@ -7,7 +7,6 @@
 #      - 
 #  source:   #GitHub or other
   
-# BC Groundwater Resource Record
 - title: Groundwater Levels   
   description: > 
   This is a set of R scripts to reproduce the 2013 analysis of trends in groundwater levels, presented by
