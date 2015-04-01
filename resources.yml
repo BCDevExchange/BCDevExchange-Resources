@@ -9,8 +9,8 @@
   
 # BC Groundwater Resource Record
 - title: Groundwater Levels    #user friendly title for the resource, suitable for display on BCDevExchange.org
-  description: 
-  > This is a set of R scripts to reproduce the 2013 analysis of trends in groundwater levels, presented by
+  description: > 
+  This is a set of R scripts to reproduce the 2013 analysis of trends in groundwater levels, presented by
   Environmental Reporting BC. The scripts use theBC Groundwater package and groundwater monitoring data from the 
   B.C. observation well network to analyze longterm trends of groundwater levels and produce summary visualizations 
   as well as individual well statistics.   #user friendly description of the resource, suitable for display on BCDevExchange.org
