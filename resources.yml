@@ -1,7 +1,8 @@
 --- 
 
 # A Resource Record
-#- title:    #user friendly title for the resource, suitable for display on BCDevExchange.org
+#- 
+#  title:    #user friendly title for the resource, suitable for display on BCDevExchange.org
 #  description:    #user friendly description of the resource, suitable for display on BCDevExchange.org
 #  url:    #complete url of the resource location. for resources in GitHub, use repo url. 
 #  tags:     #any tags you want to associate with this resource
