@@ -10,7 +10,7 @@
 - title: Groundwater Levels   
   description: > 
   This is a set of R scripts to reproduce the 2013 analysis of trends in groundwater levels, presented by Environmental Reporting BC. The scripts use theBC Groundwater package and groundwater monitoring data from the B.C. observation well network to analyze longterm trends of groundwater levels and produce summary visualizations as well as individual well statistics.   
-  url: 'https://github.com/bcgov/groundwater_levels'    
+  url: "https://github.com/bcgov/groundwater_levels"    
   tags:     
       - Environment
       - BC Government
@@ -22,7 +22,7 @@
 - title: BC Groundwater    
   description:  > 
   bcgroundwater is an R package to facilitate analysis and visualization of groundwater data from the British Columbia groundwater observation well network. It provides functions for importing, cleaning, and summarizing groundwater data, analyzing long-term trends in groundwater levels, and visualizing analysis results. This package was developed by Environmental Reporting BC to support our 2013 analysis of trends in groundwater levels.  
-  url:  'https://github.com/bcgov/bcgroundwater'  
+  url:  "https://github.com/bcgov/bcgroundwater"  
   tags:     
       - Environment
       - BC Government
