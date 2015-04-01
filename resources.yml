@@ -1,0 +1,37 @@
+---
+# A Resource Record
+#- title:    #user friendly title for the resource, suitable for display on BCDevExchange.org
+#  description:    #user friendly description of the resource, suitable for display on BCDevExchange.org
+#  url:    #complete url of the resource location. for resources in GitHub, use repo url. 
+#  tags:     #any tags you want to associate with this resource
+#      - 
+#  source:   #GitHub or other
+  
+# BC Groundwater Resource Record
+- title: Groundwater Levels    #user friendly title for the resource, suitable for display on BCDevExchange.org
+  description: > This is a set of R scripts to reproduce the 2013 analysis of trends in groundwater levels, presented by
+  Environmental Reporting BC. The scripts use theBC Groundwater package and groundwater monitoring data from the 
+  B.C. observation well network to analyze longterm trends of groundwater levels and produce summary visualizations 
+  as well as individual well statistics.   #user friendly description of the resource, suitable for display on BCDevExchange.org
+  url: https://github.com/bcgov/groundwater_levels    #complete url of the resource location. for resources in GitHub, use repo url. 
+  tags:     #any tags you want to associate with this resource
+      - Environment
+      - BC Government
+      - R scripts
+      - Apache 2.0
+      - Water
+  source: GitHub  #GitHub or other
+  
+- title: BC Groundwater    #user friendly title for the resource, suitable for display on BCDevExchange.org
+  description:  > bcgroundwater is an R package to facilitate analysis and visualization of groundwater data from the 
+  British Columbia groundwater observation well network. It provides functions for importing, cleaning, and summarizing 
+  groundwater data, analyzing long-term trends in groundwater levels, and visualizing analysis results. This package was 
+  developed by Environmental Reporting BC to support our 2013 analysis of trends in groundwater levels.  #user friendly description of the resource, suitable for display on BCDevExchange.org
+  url:  https://github.com/bcgov/bcgroundwater  #complete url of the resource location. for resources in GitHub, use repo url. 
+  tags:     #any tags you want to associate with this resource
+      - Environment
+      - BC Government
+      - R package
+      - Apache 2.0
+      - Water
+  source: GitHub  #GitHub or other
