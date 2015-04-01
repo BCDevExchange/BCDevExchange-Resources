@@ -1,2 +1,2 @@
-# data
-Contains source data used by BCDevExchange.org
+# Resources
+Contains data used by BCDevExchange.org Resource Search
